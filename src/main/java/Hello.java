@@ -1,4 +1,7 @@
-
+/*
+ * Changelog
+ * nach Trevis steht ein "!" 
+ */
 /**
  * A class containing a main method which prints "Hello Travis!"
  * @author Johannes Drönner
@@ -11,7 +14,7 @@ public class Hello {
 	 * @return "Hello Travis!"
 	 */
 	static public String sayHelloTravis() {
-		return "Hello Travis ";
+		return "Hello Travis! ";
 	}; 
 
 	/**
